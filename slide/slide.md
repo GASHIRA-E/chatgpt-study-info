@@ -18,7 +18,6 @@ marp: true
 ## What ChatGPT？
 
 ChatGPTとは、OpenAI社が公開した人工知能チャットボット
-GPTから
 GPT-4の公開とともに、ChatGPTでPluginという機能が使えるようになった
 
 - GPTについて
@@ -187,8 +186,7 @@ JavaScript(TypeScript)にて実装を行います。
 ---
 ### ChatGPT APIを実装してみる > **ChatGPT APIの呼び出しを実装**
 
-<!-- TODO: リポジトリURLの設定 -->
-[サンプルリポジトリ]()
+[サンプルリポジトリ](https://github.com/GASHIRA-E/chatgpt-study-info)
 
 ![height:460](./slide-3.png)
 
@@ -223,6 +221,7 @@ JavaScript(TypeScript)にて実装を行います。
 
 サンプルが用意できなかったため動作確認できず
 [参考記事](https://tech.nri-net.com/entry/try_to_make_chatgpt_plugin)
+
 ---
 ## ChatGPT Plugin を実装してみる > **openapi.jsonの作成（生成）**
 
@@ -248,3 +247,6 @@ JavaScript(TypeScript)にて実装を行います。
 
 ここもサンプルが用意できなかったためありません。
 
+---
+
+## 以上です
